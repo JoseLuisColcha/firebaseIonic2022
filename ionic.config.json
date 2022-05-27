@@ -1,0 +1,7 @@
+{
+  "name": "firebase2022A",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
